@@ -42,9 +42,10 @@ I'm a **Full-Stack Developer** and a proud **Vibecoder** 🤖✨. I build modern
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gede-cahya&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&cache_seconds=86400" alt="Cahya's GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gede-cahya&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=gede-cahya&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&cache_seconds=86400" alt="Cahya's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gede-cahya&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&cache_seconds=86400" alt="Top Languages" />
 </p>
+
 
 
 <p align="center">
