@@ -42,13 +42,13 @@ I'm a **Full-Stack Developer** and a proud **Vibecoder** 🤖✨. I build modern
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gede-cahya&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC" alt="Cahya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gede-cahya&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gede-cahya&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&cache_seconds=86400" alt="Cahya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gede-cahya&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=gede-cahya&theme=transparent&hide_border=true&color=38B2AC" alt="GitHub Activity Graph" width="90%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gede-cahya&theme=transparent&hide_border=true&color=38B2AC" alt="GitHub Activity Graph" width="90%"/>
   </a>
 </p>
 
@@ -57,5 +57,6 @@ I'm a **Full-Stack Developer** and a proud **Vibecoder** 🤖✨. I build modern
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/gede-cahya" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gede-cahya&color=38B2AC" alt="Profile Views" />
 </p>
+
