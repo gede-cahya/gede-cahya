@@ -9,6 +9,20 @@ I'm a **Full-Stack Developer** and a proud **Vibecoder** 🤖✨. I build modern
 
 ---
 
+### 💖 Support Me
+
+<p align="left">
+  <a href="https://github.com/sponsors/gede-cahya" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-gede--cahya-pink?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://trakteer.id/gede_cahya" target="_blank">
+    <img src="https://img.shields.io/badge/Trakteer-Support%20Me-red?style=for-the-badge&logo=kofi&logoColor=white" alt="Trakteer" />
+  </a>
+</p>
+
+---
+
+
 ### 🛠️ Tech Stack & AI Arsenal
 
 **Languages & Frameworks**
