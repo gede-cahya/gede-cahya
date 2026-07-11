@@ -3,9 +3,9 @@
 I'm a **Full-Stack Developer** and a proud **Vibecoder** 🤖✨. I build modern web applications and integrate AI workflows to create seamless, intelligent user experiences. Currently navigating the intersection of traditional software engineering and AI-driven development.
 
 ### 🌟 2026 Focus & What I'm working on
-- 🧠 **AI Integration**: Exploring AI models, Whisper TTS, Stable Diffusion, and building AI Agents.
-- ⚡ **Workflow Automation**: Tinkering with robust integrations using tools like **n8n**.
-- 💻 **Modern Web Apps**: Crafting clean and scalable architectures with **Next.js** and **TypeScript**.
+- 🤖 **Agentic AI & MCP Servers**: Designing autonomous multi-agent terminal systems (Smara CLI) and building Rust-based Model Context Protocol (MCP) servers (cheat-engine-mcp) to bridge AI with OS tools.
+- 👾 **Reverse Engineering & Memory Injection**: Deep diving into memory scanning, GDB function hooking, IL2CPP reverse engineering, and building lightweight memory injectors in Rust.
+- ⚡ **High-Performance Web Engines**: Crafting ultra-fast web readers, scrapers, and API proxies using Bun, Hono, Drizzle ORM, and Next.js 16.
 
 ### 🛠️ Featured Projects
 
