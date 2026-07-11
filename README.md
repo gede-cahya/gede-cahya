@@ -7,6 +7,28 @@ I'm a **Full-Stack Developer** and a proud **Vibecoder** 🤖✨. I build modern
 - ⚡ **Workflow Automation**: Tinkering with robust integrations using tools like **n8n**.
 - 💻 **Modern Web Apps**: Crafting clean and scalable architectures with **Next.js** and **TypeScript**.
 
+### 🛠️ Featured Projects
+
+#### 🤖 AI Agents & Developer Tools
+*   **[Smara CLI](https://github.com/gede-cahya/Smara-CLI)**: An autonomous multi-agent terminal assistant built in Go, featuring smart long-term memory, team synchronization, and Model Context Protocol (MCP) integration.
+*   **[9Router](https://github.com/gede-cahya/9router)**: A free AI router and token saver that routes requests, implements RTK, and automatically falls back to cheaper/free models to save 20-40% of tokens.
+*   **[DocForge](https://github.com/gede-cahya/docforge)**: A conversational AI-powered generator that creates comprehensive Product Requirements Documents (PRDs) and Product Specification Documents (PSDs) on the fly.
+*   **[Notion2API](https://github.com/gede-cahya/notion2api)**: A reverse-engineered Notion AI gateway exposing an OpenAI-compatible `/v1/chat/completions` endpoint for standard clients.
+
+#### 🎮 Game Modding & Reverse Engineering
+*   **[cheat-engine-mcp](https://github.com/gede-cahya/cheat-engine-mcp)**: A Rust-based MCP server providing LLMs with direct memory scanning, function hooking, GDB integration, and IL2CPP reverse engineering tools.
+*   **tbh-injector**: A high-efficiency, dependency-free Rust implementation of Python memory hooking scripts, featuring real-time game process monitoring and injection.
+
+#### 📚 Web Applications & Reader Platforms
+*   **[Komida Manga Reader](https://github.com/gede-cahya/komida)**: A modern, high-performance manga and manhwa web reader built with Next.js 16, Tailwind CSS, and Framer Motion.
+*   **[Komida Backend](https://github.com/gede-cahya/komida-backend)**: The powerhouse backend scraper, user management, and payment engine for Komida, built with Bun, Hono, and Drizzle ORM.
+*   **[Personal Portfolio](https://github.com/gede-cahya/porfolionew)**: A sleek personal portfolio site built using React, Tailwind CSS, Vite, and Framer Motion.
+
+#### ⚡ Automation & Web Scrapers
+*   **[K12-Reverse](https://github.com/gede-cahya/K-12-reverse)**: A high-concurrency Go CLI that automates bulk creation of ChatGPT workspace accounts utilizing Gmail dot-tricks and headless IMAP OTP extraction.
+*   **[pixel-gemini](https://github.com/gede-cahya/pixel-gemini)**: A Telegram bot simulating a Pixel 10 Pro device to claim the 12-month free Gemini Pro offer from Google One.
+*   **[chatgpt-checkout](https://github.com/gede-cahya/chatgpt-checkout)**: An experimental utility to automatically generate ChatGPT Plus/Pro checkout links, bypassing location checks via region-specific API routing.
+
 ---
 
 ### 💖 Support Me
