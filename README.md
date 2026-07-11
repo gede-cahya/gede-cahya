@@ -24,11 +24,6 @@ I'm a **Full-Stack Developer** and a proud **Vibecoder** 🤖✨. I build modern
 *   **[Komida Backend](https://github.com/gede-cahya/komida-backend)**: The powerhouse backend scraper, user management, and payment engine for Komida, built with Bun, Hono, and Drizzle ORM.
 *   **[Personal Portfolio](https://github.com/gede-cahya/porfolionew)**: A sleek personal portfolio site built using React, Tailwind CSS, Vite, and Framer Motion.
 
-#### ⚡ Automation & Web Scrapers
-*   **[K12-Reverse](https://github.com/gede-cahya/K-12-reverse)**: A high-concurrency Go CLI that automates bulk creation of ChatGPT workspace accounts utilizing Gmail dot-tricks and headless IMAP OTP extraction.
-*   **[pixel-gemini](https://github.com/gede-cahya/pixel-gemini)**: A Telegram bot simulating a Pixel 10 Pro device to claim the 12-month free Gemini Pro offer from Google One.
-*   **[chatgpt-checkout](https://github.com/gede-cahya/chatgpt-checkout)**: An experimental utility to automatically generate ChatGPT Plus/Pro checkout links, bypassing location checks via region-specific API routing.
-
 ---
 
 ### 💖 Support Me
